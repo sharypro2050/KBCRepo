@@ -16,6 +16,7 @@ store = {
         "What is the currency of Japan?",
         "Which country is known as the Land of the Rising Sun?",
         "Which city is known as the 'City of Love'?"
+        "Which city is known as the 'City of Love'?"
     ],
     "options": [
         ["A) Sydney", "B) Melbourne", "C) Canberra", "D) Brisbane"],
@@ -33,7 +34,8 @@ store = {
         ["A) Spanish", "B) Portuguese", "C) French", "D) English"],
         ["A) Yen", "B) Won", "C) Peso", "D) Ringgit"],
         ["A) China", "B) South Korea", "C) Japan", "D) Thailand"],
-        ["A) Venice", "B) Paris", "C) Rome", "D) Prague"]
+        ["A) Venice", "B) Paris", "C) Rome", "D) Prague"],
+        ["A) Venice", "B) Paris", "C) Rome", "D) Prague"],
     ],
     "answers": ["C","B","B","B","D","B","C","B","C","C","B","B","B","A","C","B"],
     "prize": [1000, 2000, 3000, 5000, 10000, 20000, 40000, 80000, 160000, 320000, 640000, 1250000, 2500000, 500000, 7500000, 10000000]}
