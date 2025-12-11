@@ -48,7 +48,7 @@ for que in range(len(store['questions'])):
         print(store['options'][que][opt])
     user_input = input("Type your answer (A,B,C or D) here: ").upper()
     
-    while user_input !='A'and user_input !='B' and user_input !='C' and user_input !='D':
+    while user_input not in ('A','B','C','D'):
         print("Invalid input! Type only A, B , C or D")
         user_input = input("Enter your answer here: ").upper()
     if user_input == store['answers'][que]:
